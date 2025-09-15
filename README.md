@@ -2,16 +2,16 @@
 ---
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
-- <a href="#business-problem">Business Problem</a>
+- <a href="#business-problem">Business Problems</a>
 - <a href="#objectives">Objectives</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#project files">Project Files</a>
 - <a href="#tools technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
-- <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
+- <a href="#research-questions-key-findings">Research Questions & Key Findings</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+- <a href="#author-contact">Author & Contact</a>
 
 ---
 ## 🔎 Overview
@@ -20,7 +20,7 @@ It’s a mix of :
 - 🎨 Fun storytelling with **cartoons & strategy metaphors**  
 
 ---
-## Business Problem 
+## Business Problems
 📌 Duopoly (Airtel vs Jio)
 - How can the companies optimize pricing to attract customers without hurting profitability?
 - What factors are driving changes in market share between the two competitors?
