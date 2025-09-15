@@ -1,5 +1,6 @@
 # Airtel vs Jio: Duopoly & Churn Analysis
 
+---
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
