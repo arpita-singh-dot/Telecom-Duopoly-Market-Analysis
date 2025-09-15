@@ -78,6 +78,7 @@ duopoly_project/
 │
 └── README.md                         # Project description, steps to run, insights
 
+```
 ----
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
 ## Tools & Technologies 
@@ -114,6 +115,7 @@ MIT License – Free to use and adapt.
 
 ---
 <h2><a class="anchor" id="filnal-recommendation"></a>Final Recommendation</h2>
+
 ## Final Recommendation 
 - Both companies should focus on reducing churn by improving customer service and loyalty programs.
 - Invest in data-driven pricing strategies to stay competitive without losing profitability.
