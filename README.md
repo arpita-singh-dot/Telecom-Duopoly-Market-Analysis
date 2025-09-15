@@ -87,7 +87,7 @@ duopoly_project/
 - Data: TRAI, Yahoo Finance, IBM Telecom Churn dataset 
 
 ---
-<h2><a class="anchor" id="exploratory-data-analysis></a>Exploratory Data Analysis</h2>
+<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis</h2>
 
 Performed data quality checks, handled missing values, and treated outliers for reliable insights.
 Conducted exploratory analysis to compare revenue, customer base, and ARPU across competitors.
@@ -112,7 +112,7 @@ Key Finding:
 MIT License – Free to use and adapt.  
 
 ---
-<h2><a class="anchor" id="final-recommendation"></a>Final Recommendation</h2>
+<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
 - Both companies should focus on reducing churn by improving customer service and loyalty programs.
 - Invest in data-driven pricing strategies to stay competitive without losing profitability.
