@@ -5,8 +5,8 @@
 - <a href="#business-problem">Business Problems</a>
 - <a href="#objectives">Objectives</a>
 - <a href="#dataset">Dataset</a>
-- <a href="#project files">Project Files</a>
-- <a href="#tools technologies">Tools & Technologies</a>
+- <a href="#project-files">Project Files</a>
+- <a href="#tools-technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions-key-findings">Research Questions & Key Findings</a>
@@ -14,13 +14,15 @@
 - <a href="#author-contact">Author & Contact</a>
 
 ---
-## 🔎 Overview
+<h2><a class="anchor" id="overview"></a>Overview</h2>
+
 This project explores how **Reliance Jio** and **Bharti Airtel** dominate India’s telecom sector (80%+ market share), and links it to **customer churn analysis**.
 It’s a mix of :
 - 🎨 Fun storytelling with **cartoons & strategy metaphors**  
 
 ---
-## Business Problems
+<h2><a class="anchor" id="business-problem"></a>Business Problems</h2>
+
 📌 Duopoly (Airtel vs Jio)
 - How can the companies optimize pricing to attract customers without hurting profitability?
 - What factors are driving changes in market share between the two competitors?
@@ -33,7 +35,8 @@ It’s a mix of :
 - What retention strategies can reduce churn while keeping acquisition costs low?
 - How do contract type, monthly charges, and tenure affect churn probability?
 ---
-## 🎯 Objectives
+<h2><a class="anchor" id="objectives"></a>🎯 Objectives</h2>
+
 1. Compare **Jio vs Airtel** in terms of:
    - Market share  
    - Stock price trends  
@@ -43,19 +46,21 @@ It’s a mix of :
 4. Make insights engaging using **visuals & humor**.  
 
 ---
-## Dataset 
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+ 
 - 📈 Market share & stock analysis  
 - 📉 Customer churn modeling (IBM dataset) 
----
 
-## 📂 Project Files
+---
+<h2><a class="anchor" id="project-files"></a>📂 Project Files</h2>
+
 - `Presentation_ppt/StoryTelling.pptx` → Charts & cartoons (duopoly pie, churn plots, funny illustrations)  
 - `notebooks/Telecom_churn_visualization.ipynb` → Jupyter notebooks for cleaning, EDA, churn model  
 - `Presentation_ppt/Decoding the Duopoly.pptx` → Final presentation 
 - `sql/sql_que_solve.sql` → Business problem solving
 
 --- 
-
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 ## Project Structure
 ```
 duopoly_project/
@@ -73,8 +78,8 @@ duopoly_project/
 │
 └── README.md                         # Project description, steps to run, insights
 
-```
-
+----
+<h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
 ## Tools & Technologies 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - Jupyter Notebook  
@@ -83,13 +88,15 @@ duopoly_project/
 
 
 ---
-## Exploratory Data Analysis (EDA)
+<h2><a class="anchor" id="exploratory-data-analysis></a>Exploratory Data Analysis</h2>
+
 Performed data quality checks, handled missing values, and treated outliers for reliable insights.
 Conducted exploratory analysis to compare revenue, customer base, and ARPU across competitors.
 Identified key correlations and patterns influencing market share and growth trends.
 
 ---
-## 📊 Research Questions & Key Findings
+<h2><a class="anchor" id="research-questions-key-findings"></a>📊 Research Questions & Key Findings</h2>
+
 Research Questions:
 - How do revenue and customer growth trends differ between the two telecom companies over time?
 - Which factors (e.g., ARPU, churn rate, pricing) have the strongest impact on market share?
@@ -101,16 +108,18 @@ Key Finding:
 - **Churn is highest** among short-tenure & month-to-month contracts.  
 - Investors love the rivalry — both stocks trend upward.
 ---
-## 📜 License
+<h2><a class="anchor" id="license"></a>License</h2>
+
 MIT License – Free to use and adapt.  
 
 ---
+<h2><a class="anchor" id="filnal-recommendation"></a>Final Recommendation</h2>
 ## Final Recommendation 
 - Both companies should focus on reducing churn by improving customer service and loyalty programs.
 - Invest in data-driven pricing strategies to stay competitive without losing profitability.
 - Expand digital and value-added services (like OTT bundles, mobile payments) to increase ARPU and long-term retention.
-
-##  Author
+---
+<h2><a class="anchor" id="author-contact"></a>Author & Contact h2>
 Created by **[Arpita Singh]**
 📧 Email:arpitasingh15152115@gmail.com   
 *Decoding the duopoly with data & humor.*
