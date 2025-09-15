@@ -78,15 +78,14 @@ duopoly_project/
 │
 └── README.md                         # Project description, steps to run, insights
 
-```
+
 ----
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
+
 ## Tools & Technologies 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - Jupyter Notebook  
 - Data: TRAI, Yahoo Finance, IBM Telecom Churn dataset 
-
-
 
 ---
 <h2><a class="anchor" id="exploratory-data-analysis></a>Exploratory Data Analysis</h2>
