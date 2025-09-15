@@ -22,16 +22,16 @@ It’s a mix of :
 ---
 ## Business Problem 
 📌 Duopoly (Airtel vs Jio)
-How can the companies optimize pricing to attract customers without hurting profitability?
-What factors are driving changes in market share between the two competitors?
-Which customer segments are more profitable, and how can companies retain them?
-How to identify revenue growth opportunities in a highly competitive duopoly market?
+- How can the companies optimize pricing to attract customers without hurting profitability?
+- What factors are driving changes in market share between the two competitors?
+- Which customer segments are more profitable, and how can companies retain them?
+- How to identify revenue growth opportunities in a highly competitive duopoly market?
 
 📌 Churn (Telecom Churn Analysis)
-Which customer characteristics most influence churn behavior?
-How can we predict churn early to take preventive action?
-What retention strategies can reduce churn while keeping acquisition costs low?
-How do contract type, monthly charges, and tenure affect churn probability?
+- Which customer characteristics most influence churn behavior?
+- How can we predict churn early to take preventive action?
+- What retention strategies can reduce churn while keeping acquisition costs low?
+- How do contract type, monthly charges, and tenure affect churn probability?
 ---
 ## 🎯 Objectives
 1. Compare **Jio vs Airtel** in terms of:
