@@ -82,7 +82,6 @@ duopoly_project/
 ---
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
 
-## Tools & Technologies 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - Jupyter Notebook  
 - Data: TRAI, Yahoo Finance, IBM Telecom Churn dataset 
@@ -113,13 +112,13 @@ Key Finding:
 MIT License – Free to use and adapt.  
 
 ---
-<h2><a class="anchor" id="filnal-recommendation"></a>Final Recommendation</h2>
+<h2><a class="anchor" id="final-recommendation"></a>Final Recommendation</h2>
 
 - Both companies should focus on reducing churn by improving customer service and loyalty programs.
 - Invest in data-driven pricing strategies to stay competitive without losing profitability.
 - Expand digital and value-added services (like OTT bundles, mobile payments) to increase ARPU and long-term retention.
 ---
-<h2><a class="anchor" id="author-contact"></a>Author & Contact h2>
+<h2><a class="anchor" id="author-contact"></a>Author & Contact</h2>
 
 Created by **[Arpita Singh]**
 📧 Email:arpitasingh15152115@gmail.com   
