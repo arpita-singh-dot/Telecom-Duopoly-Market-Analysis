@@ -17,8 +17,6 @@
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
 This project explores how **Reliance Jio** and **Bharti Airtel** dominate India’s telecom sector (80%+ market share), and links it to **customer churn analysis**.
-It’s a mix of :
-- 🎨 Fun storytelling with **cartoons & strategy metaphors**  
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problems</h2>
