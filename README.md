@@ -119,5 +119,5 @@ MIT License – Free to use and adapt.
 <h2><a class="anchor" id="author-contact"></a>Author & Contact</h2>
 
 Created by **[Arpita Singh]**
-📧 Email:arpitasingh15152115@gmail.com   
+📧 Email:arpitasinghchauhan2115@gmail.com   
 *Decoding the duopoly with data & humor.*
